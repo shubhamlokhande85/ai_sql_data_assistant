@@ -1,0 +1,7 @@
+streamlit>=1.45,<2
+groq>=0.9,<2
+mysql-connector-python>=8.3,<10
+python-dotenv>=1.0,<2
+pandas>=2.1,<4
+sqlglot>=25,<30
+plotly>=5.20,<7
